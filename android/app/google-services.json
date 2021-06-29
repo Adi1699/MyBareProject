@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "173985463315",
+    "project_id": "steel-on-web-75c37",
+    "storage_bucket": "steel-on-web-75c37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173985463315:android:6963286c617caacca1d3e6",
+        "android_client_info": {
+          "package_name": "com.steelonweb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173985463315-23tgij6o3av4klgn3k8fccmfjiekr9j3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.steelonweb",
+            "certificate_hash": "a3d9f9ea962901f9afc60a7ae950bd8670af86a9"
+          }
+        },
+        {
+          "client_id": "173985463315-q16qdum62m4bl0j9pv8avigm7a2qfjaq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdsqsorgHvHmGVv5Qww8yZ0PoYKdYUOFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173985463315-q16qdum62m4bl0j9pv8avigm7a2qfjaq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

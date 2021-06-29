@@ -1,0 +1,13 @@
+{
+  "name": "SteelOnWeb",
+  "displayName": "Steel On Web",
+  "expo": {
+    "name": "SteelOnWeb",
+    "slug": "SteelOnWeb",
+    "scheme": "steelonweb",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
